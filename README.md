@@ -37,14 +37,18 @@ GitHub → control de versiones y colaboración
 
 <hr>
 
-<h2>Parte 1 – Construcción del API</h2>
+<h2>Parte 2 – Web Scrapping</h2>
 
 <h3>Repositorio del proyecto</h3>
 <ul>
   <li>Código fuente del API</li>
   <li>README documentado</li>
+  <li>Notebook Jupiter pruebas iniciales</li>
   <li>Dockerfile funcional</li>
-  <li>requirements.txt</li>
+  <li>Archivo CSV con los datos extraídos directamente del scraping</li>
+  <li>Archivo CSV final con los datos limpios, procesados y estructurados</li>
+  <li>Versión en formato Excel de los datos finales.</li>
+  
 </ul>
 
 <h3>API funcional</h3>
