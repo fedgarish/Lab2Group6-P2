@@ -75,7 +75,9 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 
 <h3>Evidencia</h3>
 <h5>Codigo API</h5>
+<ul>
 <li>El código muestra la configuración de un entorno de web scraping con Selenium, donde se utiliza un navegador automatizado para acceder a una API (http://localhost:8000). Esta integración permite consumir datos del servicio, procesarlos posteriormente y almacenarlos de forma estructurada dentro del proyecto.</li>
+</ul>
 <p align="center">
   <img src="Evidencias/Parte2_1.jpeg" width="500">
   
