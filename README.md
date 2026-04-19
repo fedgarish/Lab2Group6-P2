@@ -59,7 +59,7 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 
 <h3>Creatividad/Dificultad</h3>
 <ul>
-  <li>Para la calificacion completa se tomara en cuenta la dificultad de la pagina web scrappeada o la utilidad de los datos conseguidos.</li>
+  <li>La página web scrapeada permite identificar y consultar establecimientos como farmacias,restaurantes, etc. Proporcionando información relevante como nombre, dirección, horario de atención, calificación y número de usuarios. La dificultad del scraping radica en que estos datos se presentan en tarjetas con estructura variable, donde algunos campos pueden no estar disponibles o mostrarse con valores como “N/A”, lo que requirió validaciones y lógica adicional durante la extracción. Los datos obtenidos resultan de alta usabilidad, ya que facilitan el análisis de servicios disponibles por zona y pueden ser reutilizados mediante el API desarrollado o en formatos estructurados como CSV y Excel.</li>
 </li>
 
 
