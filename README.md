@@ -41,7 +41,7 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 <ul>
   <li>Código fuente del API</li>
   <li>README documentado</li>
-  <li>Notebook Jupiter pruebas iniciales</li>
+  <li>Notebook jupiter pruebas iniciales</li>
   <li>Dockerfile funcional</li>
   <li>Archivo CSV con los datos extraídos directamente del scraping</li>
   <li>Archivo CSV final con los datos limpios, procesados y estructurados</li>
@@ -51,25 +51,19 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 
 <h3>API funcional</h3>
 <ul>
-  <li>Flask</li>
-  <li>FastAPI</li>
-  <li>Otro framework Python aprobado</li>
+  <li>jupyter</li>
+  <li>selenium</li>
+  <li>pandas</li>
+  <li>time</li>
 </ul>
 
-<h3>Funcionalidades mínimas</h3>
+<h3>Creatividad/Dificultad</h3>
 <ul>
-  <li>Endpoint <b>GET</b></li>
-  <li>Endpoint <b>POST</b></li>
-  <li>Validación básica de datos</li>
-  <li>Respuestas en formato JSON</li>
-</ul>
+  <li>Para la calificacion completa se tomara en cuenta la dificultad de la pagina web scrappeada o la utilidad de los datos conseguidos.</li>
+</li>
 
-<h3>Creatividad</h3>
-<ul>
-  
-  <li>Integración con APIs externas</li>
-  <li>Procesamiento de datos</li>
-  <li>Demos de Soluciones tecnológicas</li>
+
+
 
 </ul>
 
