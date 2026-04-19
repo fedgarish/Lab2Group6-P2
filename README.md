@@ -133,7 +133,7 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 <h5>historial de commits del repositorio en GitHub</h5>
 
 <p align="center">
-  <img src="Evidencias/Parte2_8.jpeg" width="500">
+  <img src="Evidencias/Parte2_8.png" width="500">
 </p>
 <h3>Comentario</h3>
 <p>
