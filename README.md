@@ -30,9 +30,8 @@ Finalmente, todo el código desarrollado durante el proceso se publica en un rep
 
 <h2>Objetivo</h2>
 <p>
-Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de desarrollo, versionamiento, pruebas y despliegue local usando FastAPI.
-Durante el ejercicio deberán usar correctamente:
-GitHub → control de versiones y colaboración
+<li>Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de desarrollo, versionamiento, pruebas y despliegue local usando FastAPI.
+</li>
 </p>
 
 <hr>
