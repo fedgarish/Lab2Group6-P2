@@ -96,7 +96,7 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 </li>
 </ul>
 <p align="center">
-  <img src="Evidencias/Parte2-3.jfif" width="500">
+  <img src="Evidencias/Parte2_3.jpeg" width="500">
 </p>
 <h5>Tabla de datos procesados</h5>
 <ul>
@@ -104,7 +104,7 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 </li>
 </ul>
 <p align="center">
-  <img src="Evidencias/Parte2-4.jpeg" width="500">
+  <img src="Evidencias/Parte2_4.jpeg" width="500">
 </p>
 <h5>Generación y vista previa del archivo CSV</h5>
 <ul>
@@ -112,7 +112,7 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 </li>
 </ul>
 <p align="center">
-  <img src="Evidencias/Parte2-5.jpeg" width="500">
+  <img src="Evidencias/Parte2_5.jpeg" width="500">
 </p>
 <h5>Guardado final de datos en CSV</h5>
 <ul>
@@ -120,7 +120,7 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 </li>
 </ul>
 <p align="center">
-  <img src="Evidencias/Parte2-6.jpeg" width="500">
+  <img src="Evidencias/Parte2_6.jpeg" width="500">
 </p>
 <h5>Contenido del archivo CSV generado</h5>
 <ul>
@@ -128,7 +128,7 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
 </li>
 </ul>
 <p align="center">
-  <img src="Evidencias/Parte2-7.jpeg" width="500">
+  <img src="Evidencias/Parte2_7.jpeg" width="500">
 </p>
 <h3>Comentario</h3>
 <p>
