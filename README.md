@@ -2,11 +2,11 @@
   <img src="Evidencias/logo-uide.webp" width="220" alt="Logo UIDE">
 </p>
 
-<h1 align="center">Laboratorio 1 - Grupo 6</h1>
+<h1 align="center">Laboratorio 2 - Grupo 6</h1>
 
 <p align="center">
   <b>MCIB-B</b><br>
-  Trabajo grupal enfocado en el desarrollo, contenerización y despliegue de un API funcional.
+  Trabajo grupal enfocado en el proceso de web scraping
 </p>
 <h2>Integrantes</h2>
 
@@ -19,20 +19,20 @@
 
 <h2>Introducción</h2>
 <p>
-El presente proyecto tiene como objetivo el diseño, construcción, contenerización y despliegue de una API funcional orientada al análisis de seguridad de archivos. La solución desarrollada permite autenticar usuarios mediante tokens JWT, procesar solicitudes a través de endpoints REST (GET y POST), y consumir servicios externos, específicamente la API de VirusTotal, con el fin de obtener información sobre posibles amenazas asociadas a un hash de archivo.
+En esta segunda parte del proyecto se aborda el proceso de web scraping, una técnica fundamental para la obtención de datos desde fuentes abiertas en la web. El objetivo principal es seleccionar una página pública y extraer de ella datos estructurados, aplicando un flujo de trabajo completo que permita transformar la información obtenida en datos útiles y reutilizables.
+  
+Para ello, se realiza la extracción automatizada de información, seguida de una fase de limpieza y procesamiento de los datos, con el fin de garantizar su calidad y consistencia. Una vez tratados, los datos resultantes se almacenan en formato CSV, facilitando su análisis posterior y su compatibilidad con otras herramientas.
 
-La API actúa como un intermediario inteligente que no solo consulta información externa, sino que también aplica lógica propia para interpretar los resultados, generando un veredicto simplificado y un indicador de riesgo. De esta manera, se simula el funcionamiento de sistemas utilizados en entornos reales de ciberseguridad, como centros de operaciones de seguridad (SOC), donde es necesario analizar rápidamente archivos sospechosos y tomar decisiones informadas.
-
-Adicionalmente, el proyecto incorpora buenas prácticas de desarrollo de software, incluyendo el uso de control de versiones con GitHub para la gestión colaborativa del código, la contenerización mediante Docker para asegurar la portabilidad y consistencia del entorno de ejecución, la validación de endpoints utilizando herramientas como curl, y el despliegue en la nube a través de servicios como Google Cloud, garantizando así la disponibilidad y accesibilidad del servicio.
-
-En conjunto, esta solución no solo cumple con los requerimientos técnicos planteados, sino que también representa una aproximación práctica al desarrollo de APIs modernas, seguras y escalables, integrando múltiples tecnologías y servicios en un flujo de trabajo completo desde el desarrollo hasta el despliegue en producción.
+Finalmente, todo el código desarrollado durante el proceso se publica en un repositorio independiente, fomentando buenas prácticas como el control de versiones, la organización del proyecto y la reproducibilidad del trabajo realizado.
 </p>
 
 <hr>
 
 <h2>Objetivo</h2>
 <p>
-  Diseñar, construir, contenerizar y desplegar un API funcional, aplicando buenas prácticas de desarrollo, versionamiento, pruebas y despliegue en la nube.
+Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de desarrollo, versionamiento, pruebas y despliegue local usando FastAPI.
+Durante el ejercicio deberán usar correctamente:
+GitHub → control de versiones y colaboración
 </p>
 
 <hr>
