@@ -82,29 +82,53 @@ Diseñar, construir y desplegar un API funcional, aplicando buenas prácticas de
   <img src="Evidencias/Parte2_1.jpeg" width="500">
   
 </p>
-<h5>Estructura del codigo de la API</h5>
+<h5>Extracción y estructuración de datos HTML con BeautifulSoup</h5>
+<ul>
+<li>El código procesa el contenido HTML obtenido mediante Selenium utilizando BeautifulSoup, extrae datos estructurados de cada tarjeta (nombre, horario, dirección, calificación y usuarios) y los almacena en una lista de diccionarios, que luego se imprime y sirve como base para su posterior guardado en CSV.
+</li>
+</ul>
 <p align="center">
-  <img src="Evidencias/parte1-3.png" width="500">
+  <img src="Evidencias/Parte2_2.jpeg" width="500">
 </p>
-<h5>Codigo Requirements</h5>
+<h5>Resultados de los datos extraídos</h5>
+<ul>
+<li>La imagen muestra la salida de datos estructurados obtenidos mediante web scraping, donde se listan varios establecimientos con información como nombre, horario, dirección, calificación y número de usuarios, almacenados en una estructura tipo diccionario.
+</li>
+</ul>
 <p align="center">
-  <img src="Evidencias/parte1-4.jfif" width="500">
+  <img src="Evidencias/Parte2-3.jfif" width="500">
 </p>
-<h5>Codigo Dockerfile</h5>
+<h5>Tabla de datos procesados</h5>
+<ul>
+<li>La imagen muestra los datos extraídos y procesados convertidos en un DataFrame de pandas, donde se organizan campos como nombre, horario, dirección, calificación y número de usuarios, facilitando su visualización y posterior exportación a formatos como CSV o Excel.
+</li>
+</ul>
 <p align="center">
-  <img src="Evidencias/parte1-5.png" width="500">
+  <img src="Evidencias/Parte2-4.jpeg" width="500">
 </p>
-<h5>Codigo de gitignore</h5>
+<h5>Generación y vista previa del archivo CSV</h5>
+<ul>
+<li>La imagen muestra la exportación de los datos procesados a un archivo CSV, junto con una vista previa del contenido generado, confirmando que la información extraída fue correctamente estructurada y guardada para su uso final.
+</li>
+</ul>
 <p align="center">
-  <img src="Evidencias/parte1-6.png" width="500">
+  <img src="Evidencias/Parte2-5.jpeg" width="500">
 </p>
-<h5>Codigo de dockerignore</h5>
+<h5>Guardado final de datos en CSV</h5>
+<ul>
+<li>La imagen muestra la exportación final de los datos extraídos a un archivo CSV (lugares_scrapeados.csv), utilizando pandas, y el cierre correcto del navegador automatizado, dando por finalizado el proceso de web scraping.
+</li>
+</ul>
 <p align="center">
-  <img src="Evidencias/parte1-7.png" width="500">
+  <img src="Evidencias/Parte2-6.jpeg" width="500">
 </p>
-<h5>Codigo de Env</h5>
+<h5>Contenido del archivo CSV generado</h5>
+<ul>
+<li>La La imagen muestra el contenido del archivo CSV generado, donde se almacenan los datos finales obtenidos del scraping, organizados por columnas como nombre, horario, dirección, calificación y número de usuarios, listos para su uso y análisis.
+</li>
+</ul>
 <p align="center">
-  <img src="Evidencias/parte1-8.png" width="500">
+  <img src="Evidencias/Parte2-7.jpeg" width="500">
 </p>
 <h3>Comentario</h3>
 <p>
